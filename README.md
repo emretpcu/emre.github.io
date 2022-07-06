@@ -1,3 +1,3 @@
-# emre.github.io
+# emretpcu.tk
 
 Hello, this is my personal website

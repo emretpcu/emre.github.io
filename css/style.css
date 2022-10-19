@@ -151,7 +151,6 @@ a {
   .site-hero, .site-hero .row {
     height: 100vh;
     min-height: 800px; }
-/*
   .site-hero:before {
     content: "";
     position: absolute;
@@ -161,7 +160,6 @@ a {
     right: 0;
     bottom: 0;
     background: rgba(0, 0, 0, 0.5); }
-*/
   .site-hero h1 {
     font-weight: 200;
     margin-bottom: 20px;
